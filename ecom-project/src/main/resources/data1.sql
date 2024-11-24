@@ -1,4 +1,4 @@
-INSERT INTO product (name, desc, brand, price, category, release_date, available, quantity)
+INSERT INTO product (name, description, brand, price, category, release_date, productAvailable, stockQuantity)
 VALUES
 ('Tata Nexon', 'A compact SUV with excellent safety features and performance.', 'Tata Motors', 750000.00, 'Cars', '2024-01-15', true, 50),
 ('Samsung Galaxy S23', 'A flagship smartphone with cutting-edge features and a sleek design.', 'Samsung', 79999.00, 'Electronics', '2023-02-01', true, 100),
